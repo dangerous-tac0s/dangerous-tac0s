@@ -3,4 +3,4 @@ Hi. I spend a lot of time thinking about how to make contactless tech more acces
 Interesting Projects of Mine:
 - An attempt to make managing smart cards easier: <a href="https://github.com/dangerous-tac0s/global_platform_gui_qt">Global Platform GUI</a>
 - A dashboard examining the popularity and features of our products: <a href="https://github.com/dangerous-tac0s/dangerous-dashboard">Dangerous Dashboard</a>
-- Flipper Wedge let's the Flipper Zero act like a Dangerous Things KBR1--but on steroids: <a href="https://github.com/dangerousthings/flipper-wedge">Flipper Wedge</a>
+- Flipper Wedge let's the Flipper Zero act like a [Dangerous Things KBR1](https://dngr.us/kbr1)--but on steroids: <a href="https://github.com/dangerousthings/flipper-wedge">Flipper Wedge</a>
